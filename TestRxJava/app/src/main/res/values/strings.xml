@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestRxJava</string>
+    <string name="buttonSubscribe">Subscribe</string>
+    <string name="buttonUnsubscribe">Unsubscribe</string>
+</resources>
